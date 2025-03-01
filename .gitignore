@@ -1,0 +1,19 @@
+# Large data file
+db/db.txt
+
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db 
